@@ -1,4 +1,3 @@
-# alpaca
 # DevProjects - Alpaca image generator website
 
 This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
